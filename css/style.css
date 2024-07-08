@@ -205,6 +205,14 @@ Hero  Section Start
   justify-content: center;
   align-items: flex-start;
 }
+.hero-container h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.typed {
+  color: hsl(236, 91%, 47%);
+}
 
 .hero-top-data {
   text-transform: uppercase;
