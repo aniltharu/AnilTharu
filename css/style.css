@@ -861,9 +861,16 @@ Footer Section
   font-style: normal;
   color: #adadad;
 }
+/* change for future code connect with us start */
+.connect-us{
+  margin-top: 20px;
+text-align: center;
+color: #ffffff;
+}
+/* change for future code connect with us end*/
 
 .f-social-icons {
-  margin: 5rem 0;
+  margin: 2rem 0;
   text-align: center;
   color: #adadad;
 }
@@ -881,6 +888,7 @@ Footer Section
 }
 
 .f-credits p {
+   margin-top: 50px;
   text-align: center;
   color: #adadad;
 }
